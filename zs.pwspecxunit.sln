@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zs.pwspecxunit.lib", "zs.pwspecxunit.lib\zs.pwspecxunit.lib.csproj", "{B41537D5-32E5-4215-9546-6C20167AA6BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zs.pwspecxunit.tests", "zs.pwspecxunit.tests\zs.pwspecxunit.tests.csproj", "{2B94D122-EC5B-450E-B2D4-01610BA9EBEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B41537D5-32E5-4215-9546-6C20167AA6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B41537D5-32E5-4215-9546-6C20167AA6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B41537D5-32E5-4215-9546-6C20167AA6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B94D122-EC5B-450E-B2D4-01610BA9EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B94D122-EC5B-450E-B2D4-01610BA9EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B94D122-EC5B-450E-B2D4-01610BA9EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B94D122-EC5B-450E-B2D4-01610BA9EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
